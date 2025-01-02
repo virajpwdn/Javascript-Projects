@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main>
+        <div class="box">
+            <img src="https://images.unsplash.com/photo-1733860442875-aa8c87757b3a?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+            <div class="float">
+                <h3 class="small">HEY</h3>
+                <h3 id="bold">LET'S</h3>
+                <h3 class="small">DANCE</h3>
+            </div>
+        </div>
+        <div class="box">
+            <img src="https://images.unsplash.com/photo-1734550648239-f0118c770582?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+            <div class="float">
+                <h3 class="small">HEY</h3>
+                <h3 id="bold">LET'S</h3>
+                <h3 class="small">DANCE</h3>
+            </div>
+        </div>
+        <div class="box">
+            <img src="https://images.unsplash.com/photo-1734268486202-7e85b12a7fa2?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+            <div class="float">
+                <h3 class="small">HEY</h3>
+                <h3 id="bold">LET'S</h3>
+                <h3 class="small">DANCE</h3>
+            </div>
+        </div>
+        <div class="box">
+            <img src="https://images.unsplash.com/photo-1732951340728-d8b726561d50?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+            <div class="float">
+                <h3 class="small">HEY</h3>
+                <h3 id="bold">LET'S</h3>
+                <h3 class="small">DANCE</h3>
+            </div>
+        </div>
+        <div class="box">
+            <img src="https://images.unsplash.com/photo-1606916929342-fef8a9b43f25?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="">
+            <div class="float">
+                <h3 class="small">HEY</h3>
+                <h3 id="bold">LET'S</h3>
+                <h3 class="small">DANCE</h3>
+            </div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+
+</html>
